@@ -1,4 +1,8 @@
-## Hi there 👋
+oi sou o Matheus 
+sou do curso engenharia da computação do cesupa 
+turma EC1MA sub b
+quero aprender um pouco de tudo
+nesse semestre quero conseguir fazer mini janelas para zuar meus amigos
 
 <!--
 **tb12ho/tb12ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
